@@ -46,3 +46,4 @@ ggplot(iris, aes(x = Species, y = Sepal.Length, fill = Species)) +
   labs(title = "Distribución de Sepal.Length por Especie",
        x = "Especie",
        y = "Longitud del Sépalo")
+![000002](https://github.com/user-attachments/assets/e7d5a030-f922-4dd9-8c07-d2d2d030fbce)
